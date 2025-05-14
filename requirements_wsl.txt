@@ -1,0 +1,7 @@
+opencv-python
+numpy
+requests
+pillow
+mediapipe
+huggingface-hub
+flask 
